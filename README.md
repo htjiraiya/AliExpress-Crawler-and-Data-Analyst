@@ -2,7 +2,7 @@
 
 #### Upgrade pip: "python -m pip install --upgrade pip"
 
-#### [Install airflow on linux] (https://www.geeksforgeeks.org/how-to-install-apache-airflow/)
+#### [Install airflow on linux](https://www.geeksforgeeks.org/how-to-install-apache-airflow/)
 
 #### Install dependencies : "pip install -r requirements.txt"
 
