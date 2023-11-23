@@ -2,7 +2,7 @@
 
 ### A system to collect and analyze data to get insight product
 
-#### Upgrade pip: "python -m pip install --upgrade pip"
+#### Upgrade pip: `python -m pip install --upgrade pip`
 
 #### [Install airflow on linux](https://www.geeksforgeeks.org/how-to-install-apache-airflow/)
 
